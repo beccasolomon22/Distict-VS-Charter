@@ -48,7 +48,7 @@ Schools with a Budget per Student of $645-680	 have a % Overall Passing of 53.53
 
 A schools % Overall Passing decreases as the Budget per Student increases.
 
-##Conclusions
+## Conclusions
 1. Charter Schools have a significantly higher Overall Passing Percentage than District Schools.
 2. A schools size affects the Overall Passing Percentage. Once a school rises above 2000 students the overall passing grade drops by around 32%
 3. A higher Budget per Student does not improve the Overall Passing Percentage
