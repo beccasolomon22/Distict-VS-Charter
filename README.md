@@ -48,6 +48,11 @@ Schools with a Budget per Student of $645-680	 have a % Overall Passing of 53.53
 
 A schools % Overall Passing decreases as the Budget per Student increases.
 
+##Conclusions
+1. Charter Schools have a significantly higher Overall Passing Percentage than District Schools.
+2. A schools size affects the Overall Passing Percentage. Once a school rises above 2000 students the overall passing grade drops by around 32%
+3. A higher Budget per Student does not improve the Overall Passing Percentage
+
 ## Areas for Improvement
 
 1. The district_summary dataframe only works the way it is formatted because each column is a single row. I realized this once working on the other dataframes. I could change the format of this dataframe to match the others.
