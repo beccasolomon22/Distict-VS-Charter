@@ -1,4 +1,4 @@
-# pandas-challenge
+# Distict VS Charter
 
 ## Sources
 
